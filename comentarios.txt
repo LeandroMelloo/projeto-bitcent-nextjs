@@ -1,0 +1,75 @@
+Server-side vs Client-side
+ -> Server-side => Servidor => aplicação que roda do lado do servidor
+ -> Client-side => Browser => aplicação que roda do lado do cliente
+
+ Linguagens Server-side
+ -> PHP, Ruby, Java, Python, Javascript, Typescript, Golang
+ 
+ Tecnologias Client-side
+ -> HTML, CSS, Javascript, Typescript, Angular, ReactJS, VueJS
+
+ HTTP/HTTPS -> trabalha com request/response
+ HTTPS -> mais seguro
+
+ Client-side -> toda aplicação a aplicação é construida via JS
+
+ Multi Page App (MPA)
+ -> múltiplas páginas na sua aplicação HTML
+
+ Single Page App (SPA)
+-> uma única página HTML que roda a aplicação
+
+DOM ou arvore de estrutura do HTML -> utiliza Javascript
+
+Fase #1 - Vanilla JS (1993 - 2006)
+-> utilizava JavaScript puro, CSS e HTML
+-> Aplicações confusas, problemas compatibilidade, aplicações server-side
+
+Fase #2 - Jquery (2006 - 2011)
+-> camada de compatibilidade
+-> popularizou Ajax(chamada assincrona só carregava o que era necessario)
+-> aplicações server-side
+
+Fase #3 - Frames(Angular) - (2011 - 2016)
+-> começou a era dos Frames
+-> Aplicações + interativas
+-> Aplicações client-side
+
+Fase #4 - Frames + Componentes - (2013 - atual)
+-> VueJS, ReactJS, AngularJS
+-> baseado em Componentes
+-> aplicações client-side
+-> aplicações + complexas
+
+Fase #5 - Frames + JAMStack - (2015 - atual)
+-> Gatsby - NextJS
+-> geração de conteúdo estático
+-> escalabilidade
+-> desacoplamento View/Data
+
+Fase #6 - Fullstack Apps - (2021 - atual)
+-> ReactJS, NextJS
+-> melhor divisão entre server/client
+-> componentes no servidor
+-> menos JavaScript no client
+
+Como é visto uma aplicação completa
+-> é vista como uma árvore de componentes, sendo elas compostas para criar uma aplicação.
+
+As interfaces (GUI) - estrutura
+-> components (JS)
+    - autenticacao
+    - financas
+    - landing
+    - template
+    - usuario
+-> pages (HTML)
+-> styles (CSS)
+-> data (dados)
+-> logic (funções) 
+    - core (nucleo)
+        - financas
+        - usuario
+        - index.ts
+    - firebase
+    - util

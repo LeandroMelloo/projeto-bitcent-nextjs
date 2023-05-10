@@ -1,0 +1,4 @@
+- npx create-next-app@latest fundamentos
+- cd fundamentos
+- npm install -D tailwindcss postcss autoprefixer
+- npm install @tabler/icons-react
