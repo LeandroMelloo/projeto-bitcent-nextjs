@@ -1,6 +1,7 @@
 ## Transfoma DEV
 
 Transforma DEV
+
 ## Tecnologias
 
 Lista de tecnologias utilizadas no projeto:
@@ -15,8 +16,7 @@ Lista de tecnologias utilizadas no projeto:
 1. Clone o repositório:
 
 ```bash
-$ git clone https://github.com/LeandroMelloo/transforma-dev
-$ cd fundamentos
+git clone https://github.com/LeandroMelloo/transforma-dev
 ```
 
 2. Dentro da pasta do projeto, execute os comandos abaixo:
@@ -28,7 +28,8 @@ $ npm install
 # Iniciar o projeto
 $ npm run dev
 ```
-O app estará disponível no endereço http://localhost:3000.
+
+O app estará disponível no endereço <http://localhost:3000>.
 
 ## Sobre o Projeto
 

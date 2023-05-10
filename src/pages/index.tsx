@@ -1,4 +1,5 @@
 import { Icon24Hours } from "@tabler/icons-react"
+import React from "react"
 
 export default function Home() {
     return (
