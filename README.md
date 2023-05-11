@@ -16,7 +16,7 @@ Lista de tecnologias utilizadas no projeto:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/LeandroMelloo/transforma-dev
+git clone https://github.com/LeandroMelloo/bitcent
 ```
 
 2. Dentro da pasta do projeto, execute os comandos abaixo:
@@ -33,7 +33,7 @@ O app estará disponível no endereço <http://localhost:3000>.
 
 ## Sobre o Projeto
 
-BitFinance é o projeto utilizado para apresentar de forma prática os fundamentos do React e Next.js.
+Bitcent é o projeto utilizado para apresentar de forma prática os fundamentos do React e Next.js.
 
 Projeto foi desenvolvido com o foco em uma arquitetura limpa, e baseado no DDD - Domain Drive Design
 
