@@ -1,5 +1,10 @@
 - npx create-next-app@latest my-project
 - cd my-project
 - npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init -p
 - npm install @tabler/icons-react
+- npm i uuid => para gerar os Ids automaticamente
+- npm i -D @types/uuid => para gerar os Ids automaticamente em desenvolvimento
+- npm i firebase
+- npm install @mantine/core @mantine/hooks @mantine/dates dayjs @emotion/react
 - npm run dev
