@@ -1,4 +1,5 @@
-- npx create-next-app@latest fundamentos
-- cd fundamentos
+- npx create-next-app@latest my-project
+- cd my-project
 - npm install -D tailwindcss postcss autoprefixer
 - npm install @tabler/icons-react
+- npm run dev
