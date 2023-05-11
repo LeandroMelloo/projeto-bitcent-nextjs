@@ -16,7 +16,8 @@ Lista de tecnologias utilizadas no projeto:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/LeandroMelloo/bitcent
+git clone https://github.com/LeandroMelloo/projeto-bitcent-nextjs
+cd bitcent
 ```
 
 2. Dentro da pasta do projeto, execute os comandos abaixo:
