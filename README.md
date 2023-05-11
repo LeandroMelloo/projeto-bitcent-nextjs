@@ -1,6 +1,6 @@
-## Transfoma DEV
+## Projeto Bitcent NextJS
 
-Transforma DEV
+Projeto Bitcent NextJS
 
 ## Tecnologias
 
